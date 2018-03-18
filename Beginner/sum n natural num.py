@@ -1,2 +1,2 @@
-n=int(raw_input())
-print (n*(n+1)/2)
+i=int(raw_input())
+print (i*(i+1)/2)
