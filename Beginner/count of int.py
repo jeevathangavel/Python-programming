@@ -1,2 +1,2 @@
-    a=raw_input()
-    print len(a)
+    k=raw_input()
+    print len(k)
