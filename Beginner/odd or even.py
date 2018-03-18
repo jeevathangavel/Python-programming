@@ -2,8 +2,8 @@ a=raw_input()
 if a.isdigit():
 	a=int(a)
 	if(a%2==0):
-		print("a is even")
+		print("even")
 	else:
-		print("a is odd")
+		print("odd")
 else:
 	print("invalid")
